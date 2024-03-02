@@ -1,11 +1,11 @@
 'use client';
 import React, {useState, useEffect} from 'react';
-import {Link as ScrollLink, animateScroll as scroll} from 'react-scroll';
+import {animateScroll as scroll} from 'react-scroll';
 import Link from "next/link";
 import {HiOutlineBars3} from "react-icons/hi2";
 import {AiOutlineClose} from "react-icons/ai";
 import Image from "next/image";
-import navbarData from '../../data/header-data.json';
+import navbarData from '../../Data/header-data.json';
 import {usePathname} from "next/navigation";
 
 function Header(props) {
