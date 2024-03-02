@@ -1,0 +1,34 @@
+{
+  "featuredServices": [
+    {
+      "image": "/assets/images/f1.svg",
+      "heading": "logo Design",
+      "description": "Create a memorable brand identity with our logo design services, ensuring your visual presence reflects your uniqueness."
+    },
+    {
+      "image": "/assets/images/f2.svg",
+      "heading": "Web Design",
+      "description": "We design visually captivating websites tailored to your brand identity."
+    },
+    {
+      "image": "/assets/images/f3.svg",
+      "heading": "Web Development",
+      "description": "Our experienced developers ensure your site functions seamlessly and efficiently."
+    },
+    {
+      "image": "/assets/images/f4.svg",
+      "heading": "Seo Optimization",
+      "description": "We boost your website's visibility and attract organic traffic through proven SEO strategies."
+    },
+    {
+      "image": "/assets/images/f5.svg",
+      "heading": "eCommerce Solution",
+      "description": "Maximize your online sales with secure, user-friendly online stores."
+    },
+    {
+      "image": "/assets/images/f6.svg",
+      "heading": "Content Management",
+      "description": "Take control of your website's content with user-friendly CMS solutions."
+    }
+  ]
+}

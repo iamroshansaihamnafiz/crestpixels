@@ -1,0 +1,20 @@
+{
+  "image": "/assets/images/about-whowe.webp",
+  "whoWeAreDatas": [
+    {
+      "icon": "/assets/images/abw1.svg",
+      "heading": "Vision",
+      "description": "At CrestPixels, we envision a digital landscape where every small business enjoys the benefits of an outstanding online presence. We believe in the power of the web to transform small businesses, connect them with their audiences, and drive growth."
+    },
+    {
+      "icon": "/assets/images/abw2.svg",
+      "heading": "Mission",
+      "description": "Our mission is to be the trusted digital partner of small businesses. We're dedicated to delivering exceptional web design and development services that cater to the unique needs and objectives of small businesses. Through creative innovation and unwavering dedication, we help small businesses put their digital presence on the map."
+    },
+    {
+      "icon": "/assets/images/abw3.svg",
+      "heading": "Commitment",
+      "description": "We are not just a web design and development agency; we are your growth partners. With us, you can expect transparent communication, ongoing support, and a deep commitment to your small business's success. Your vision becomes our mission, and together, we make it a reality."
+    }
+  ]
+}

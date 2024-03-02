@@ -1,0 +1,20 @@
+{
+  "heroImage": "/assets/images/hero-image.png",
+  "subtitle": "Creative Agency, Excellent Outcome",
+  "heading": "Build Your Digital Presence",
+  "services": [
+    {
+      "ser": "Web Design"
+    },
+    {
+      "ser": "Web Development"
+    },
+    {
+      "ser": "SEO Optimization"
+    },
+    {
+      "ser": "eCommerce Solutions"
+    }
+  ],
+  "button": "Get Started"
+}

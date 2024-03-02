@@ -1,0 +1,19 @@
+{
+  "deliveryProcess": [
+    {
+      "dImage": "/assets/images/dv1.webp",
+      "description": "1. Discovery Call",
+      "time": "30 mins"
+    },
+    {
+      "dImage": "/assets/images/dv2.webp",
+      "description": "2. Design & Develope",
+      "time": "2 weeks"
+    },
+    {
+      "dImage": "/assets/images/dv3.webp",
+      "description": "3. Launch & Support",
+      "time": "24/7 ongoing"
+    }
+  ]
+}

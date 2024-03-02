@@ -1,0 +1,12 @@
+{
+  "matterImage": "/assets/images/matter-img.webp",
+  "headingPrefix": "No matter you're a",
+  "roles": [
+    "FREELANCER",
+    "CONTRACTOR",
+    "SOLE TRADER",
+    "SMALL BUSINESS OWNER",
+    "PROFESSIONAL"
+  ],
+  "headingSuffix": "we can always help!"
+}

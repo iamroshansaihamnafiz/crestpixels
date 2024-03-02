@@ -1,0 +1,22 @@
+{
+  "logo": "/assets/images/logo.svg",
+  "menus": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "About",
+      "link": "/about"
+    },
+    {
+      "text": "Services",
+      "link": "/service"
+    },
+    {
+      "text": "Insights",
+      "link": "/insight"
+    }
+  ],
+  "button": "Book Free Call"
+}

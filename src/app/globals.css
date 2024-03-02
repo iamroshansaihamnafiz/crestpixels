@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Titillium Web", sans-serif !important;
+    font-style: normal;
+}
+
+/*------------------- Mobile Menu -------------------*/
+#mobile_menu {
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 12%;
+    transition: 0.3s ease-in-out;
+    height: 0px;
+}
+
+.show_menu {
+    top: 12% !important;
+    height: 210px !important;
+}
+
+/* ------- Services Design ------- */
+.services-list ul > li {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 10px;
+    line-height: 15px;
+}
+
+.services-list ul > li + li {
+    border-left: 1.5px solid black;
+    height: 15px;
+}
+
+.border-top {
+    border-top: 7px solid #F8D84E; /* Adjust the color as needed */
+    width: 4%;
+    box-sizing: border-box; /* Ensures the border width is included in the element's total width */
+}
+
+/*---------------- Animated Box Design -------------------*/
+@keyframes morph {
+    0% {
+        border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    }
+    50% {
+        border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+    }
+    100% {
+        border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    }
+}

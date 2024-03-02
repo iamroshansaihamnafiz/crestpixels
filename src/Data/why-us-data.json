@@ -1,0 +1,19 @@
+{
+  "whyUsSections": [
+    {
+      "image": "/assets/images/wy1.svg",
+      "heading": "Client Centric Approach",
+      "description": "Experience web design and development like never before – where your vision is our top priority, and every website is crafted uniquely to your needs."
+    },
+    {
+      "image": "/assets/images/wy2.svg",
+      "heading": "Pproven Success",
+      "description": "Join the ranks of our satisfied clients and discover why we are the trusted choice for turning digital dreams into reality – our portfolio and testimonials speak for themselves."
+    },
+    {
+      "image": "/assets/images/wy3.svg",
+      "heading": "Fast Delivery",
+      "description": "Our team is dedicated to delivering efficient, streamlined web solutions without compromising on quality. Experience rapid project turnaround times that get your business online and thriving quicker than ever."
+    }
+  ]
+}

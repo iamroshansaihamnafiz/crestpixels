@@ -1,0 +1,32 @@
+{
+  "heading": "Let’s talk.",
+  "description": "CrestPixels: Your trusted web design & development partner for small businesses, with specialties in custom website design, SEO optimization, and e-commerce solutions.",
+  "button": "Contact Us",
+  "quickLinks": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "Why Us",
+      "link": "#"
+    },
+    {
+      "text": "Process",
+      "link": "#"
+    },
+    {
+      "text": "Services",
+      "link": "/service"
+    },
+    {
+      "text": "Testimonials",
+      "link": "#"
+    },
+    {
+      "text": "Contact",
+      "link": "#"
+    }
+  ],
+  "contactEmail": "info@crestpixels.com"
+}
