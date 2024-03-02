@@ -7,7 +7,7 @@ import Footer from "@/components/Footer/Footer";
 function Page(props) {
     return (
         <>
-            <div className="md:-mt-[80px] lg:mt-0">
+            <div className="">
                 <Header/>
             </div>
             <Hero/>

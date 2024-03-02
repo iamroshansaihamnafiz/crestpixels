@@ -9,7 +9,7 @@ import Testimonial from "@/components/AboutPage/Testimonial/Testimonial";
 function Page(props) {
     return (
         <>
-            <div className="md:-mt-[80px] lg:mt-0">
+            <div className="">
                 <Header/>
             </div>
             <Hero/>

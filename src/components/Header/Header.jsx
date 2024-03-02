@@ -53,7 +53,7 @@ function Header(props) {
     };
 
     const containerClasses = `lg:flex py-6 lg:py-4 mt-0 lg:mt-0 lg:bg-transparent w-full ${
-        isScrolled ? '' : 'md:mt-[80px]'
+        isScrolled ? '' : 'md:mt-[0px] lg:mt-[0px]'
     }`;
     return (
         <>
