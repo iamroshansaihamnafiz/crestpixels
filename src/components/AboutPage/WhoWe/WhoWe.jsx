@@ -9,7 +9,7 @@ function WhoWe(props) {
             <section id="who-we-section">
                 <div className="container pt-16">
                     <div className="head-wrap">
-                        <div className="border-top"></div>
+                        <div className="border-top w-[13%] md:w-[4%]"></div>
                         <h1 className="mt-2 font-semibold text-secondary text-3xl">
                             Who We Are
                         </h1>

@@ -57,7 +57,7 @@ function Header(props) {
     }`;
     return (
         <>
-            <section id="header-section" className="relative">
+            <section id="header-section" className="relative z-[9999]">
                 <header style={fixedStyle} className={containerClasses}>
                     <div className="container flex items-center justify-between">
 

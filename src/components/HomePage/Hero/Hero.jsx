@@ -10,7 +10,7 @@ function Hero(props) {
         <>
             <section id="hero-section" className="mt-0 md:-mt-20 lg:-mt-28">
                 <div className="full">
-                    <div className="banner flex flex-col justify-center h-[100vh]"
+                    <div className="banner flex flex-col justify-center h-[70vh] lg:h-[100vh]"
                          style={{
                              backgroundImage: `url(${heroImage})`,
                              backgroundSize: 'cover',
@@ -19,14 +19,14 @@ function Hero(props) {
                          }}
                     >
                         <div className="container">
-                            <p className="mt-4 ml-2 md:mt-6 text-secondary sm:text-[15px] md:text-3xl font-semibold">
+                            <p className="mt-4 ml-2 md:mt-6 text-secondary text-2xl md:text-3xl font-semibold">
                                 {subtitle}
                             </p>
-                            <h2 className="mt-3 ml-2 text-secondary font-bold text-[25px] lg:leading-[65px] sm:text-[45px] md:text-5xl lg:text-[57px]">
+                            <h2 className="mt-3 ml-2 text-secondary font-bold text-[57px]">
                                 {heading}
                             </h2>
 
-                            <div className="services-list mt-3 flex items-center">
+                            <div className="hidden services-list mt-3 md:flex items-center">
                                 <ul>
                                     {services.map((service, index) => (
                                         <li key={index} className="text-lg">

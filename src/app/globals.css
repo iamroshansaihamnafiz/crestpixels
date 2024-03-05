@@ -39,7 +39,7 @@ body {
 
 .border-top {
     border-top: 7px solid #F8D84E; /* Adjust the color as needed */
-    width: 4%;
+    /*width: 4%;*/
     box-sizing: border-box; /* Ensures the border width is included in the element's total width */
 }
 
