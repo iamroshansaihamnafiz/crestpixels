@@ -15,7 +15,7 @@ function Matter(props) {
     return (
         <>
             <section id="matter-section">
-                <div className="container pt-16">
+                <div className="container py-16">
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-12 items-center gap-4">
                         <div className="col md:col-span-4">
                             <Image src={matterImage} className="" width={400} height={100} alt="matterImage"/>

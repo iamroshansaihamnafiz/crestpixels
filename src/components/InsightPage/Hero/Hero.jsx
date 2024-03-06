@@ -7,7 +7,7 @@ function Hero(props) {
         <>
             <section id="hero-section">
                 <div className="full">
-                    <div className="banner flex flex-col justify-center h-[50vh] lg:h-[85vh]"
+                    <div className="banner flex flex-col justify-center h-[50vh]"
                          style={{
                              backgroundImage: `linear-gradient(rgb(34 31 68 / 74%), rgb(4 7 11 / 57%)), url(${heroImage})`,
                              backgroundSize: 'cover',
