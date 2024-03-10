@@ -10,7 +10,7 @@ function Hero(props) {
         <>
             <section id="hero-section" className="mt-0 md:-mt-20 lg:-mt-28">
                 <div className="full">
-                    <div className="banner flex flex-col justify-center h-[70vh] lg:h-[100vh]"
+                    <div className="banner flex flex-col pt-[50px] md:pt-[100px] lg:pt-[130px] h-[70vh] lg:h-[100vh]"
                          style={{
                              backgroundImage: `url(${heroImage})`,
                              backgroundSize: 'cover',
